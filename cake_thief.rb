@@ -1,6 +1,6 @@
 def max_duffel_bag_value(cake_arrays, weight_capacity)
   # we make an array to hold the maximum possible value at every
-  # dffel bag weight capacity from 0 to weight_capacity
+  # duffel bag weight capacity from 0 to weight_capacity
   # starting each index with value 0
   max_values_at_capacities = [0] * (weight_capacity + 1)
 
